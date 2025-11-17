@@ -11,6 +11,22 @@
 
 
 
+---
+
+
+
+* Tutorial: https://youtu.be/cvWLH5dvbAA
+* Tutorial: https://cryptodeeptech.ru/scalar-venom-attack
+* Tutorial: https://dzen.ru/video/watch/691a7a10a8b7c874612993eb
+* Google Colab: https://colab.research.google.com/drive/1e93p7gxpTtfMU2L83w7I1tRDJQ1tENYa
+
+
+
+---
+
+
+
+
 <p><strong><a href="https://keyhunters.ru/scalar-venom-attack-critical-memory-leak-private-key-recovery-and-complete-takeover-of-bitcoin-wallets-by-an-attacker-where-control-over-the-victims-btc-cryptocurrency-funds-is-achieved-through/" target="_blank" rel="noreferrer noopener">The Scalar Venom Attack</a></strong>&nbsp;is a critical class of memory management vulnerabilities (classified as CWE-415, CWE-401, and more broadly as a Sensitive Memory Leak Attack (SMA)) that allows an attacker to extract cryptographic scalars (ECDSA private keys) from a process’s RAM by exploiting insufficient sanitization and memory scrubbing after cryptographic operations. Unlike traditional cryptanalytic attacks aimed at mathematically solving the elliptic curve discrete logarithm problem (ECDLP), this attack bypasses cryptography itself by exploiting fundamental architectural flaws in the implementation of cryptographic libraries and HSM memory management protocols.</p>
 
 
